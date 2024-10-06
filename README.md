@@ -2,6 +2,7 @@
 - 👀 I'm an aspiring cs student
 - 🌱 I’m currently learning css and react
 - 📫 How to reach me: syamantakmondal.personal@gmail.com
+- 📃 My website: https://mondalsyamantak.github.io/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Im just a school student exploring different areas of cs😋
 
