@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mondalsyamantak
 - 👀 I'm an aspiring cs student
 - 🌱 I’m currently learning web dev and a little bit of c++
-- 📃 My website: https://mondalsyamantak.github.io/
+- 📃 My website: https://mondalsyamantak324.netlify.app/
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: This bio is copied from someone else lmao
 
