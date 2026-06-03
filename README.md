@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mondalsyamantak
-- 👀 I'm an aspiring cs student
 - 🌱 I’m currently learning web dev and a little bit of c++
 - 📃 My website: https://den-of-sam.netlify.app/
 - 😄 Pronouns: He/him
