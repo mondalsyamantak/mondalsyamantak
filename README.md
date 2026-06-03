@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mondalsyamantak
 - 👀 I'm an aspiring cs student
 - 🌱 I’m currently learning web dev and a little bit of c++
-- 📃 My website: https://mondalsyamantak324.netlify.app/
+- 📃 My website: https://mondalsyamantak234.netlify.app/
 - 😄 Pronouns: He/him
 <!---
 mondalsyamantak/mondalsyamantak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
